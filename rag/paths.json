@@ -1,0 +1,38 @@
+{
+  "risques": {
+    "title": "Analyser un risque IA",
+    "description": "Décrire un scénario, examiner les contrôles et préparer les mesures et preuves.",
+    "steps": [
+      {
+        "id": "contexte",
+        "title": "Mission et contexte",
+        "question": "Qui utilise le système, pour quelle tâche et quelles personnes peuvent être affectées ?",
+        "retrieval_terms": "mission context purpose users impacts stakeholders"
+      },
+      {
+        "id": "scenario",
+        "title": "Scénario et conséquences",
+        "question": "Quelle cause pourrait provoquer quel événement, avec quelles conséquences pour les personnes et la mission ?",
+        "retrieval_terms": "risk impact harmful failure likelihood consequences"
+      },
+      {
+        "id": "controles",
+        "title": "Contrôles et preuves",
+        "question": "Quels contrôles existent réellement ? Quelles preuves les étayent et quelles limites subsistent ?",
+        "retrieval_terms": "controls measurement evidence evaluation testing human oversight"
+      },
+      {
+        "id": "mesures",
+        "title": "Mesures à proposer",
+        "question": "Quelles actions sont envisagées ? Quels responsables, échéances et preuves faudrait-il convenir ?",
+        "retrieval_terms": "risk treatment mitigation accountability training responsibility"
+      },
+      {
+        "id": "revue",
+        "title": "Revue et décision à préparer",
+        "question": "Quels éléments faut-il soumettre à l’autorité compétente, avec quelles conditions et quelle prochaine revue ?",
+        "retrieval_terms": "risk tolerance management decision governance residual monitoring"
+      }
+    ]
+  }
+}
