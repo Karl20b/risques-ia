@@ -1,0 +1,45 @@
+{
+  "title": "Aide et mode d’emploi",
+  "version": "Édition pédagogique · 16 novembre 2026",
+  "videos": [],
+  "sections": [
+    {
+      "title": "Installer et se connecter",
+      "steps": [
+        "Suivre INSTALLATION.md. Aucun compte ni mot de passe prédéfini n’est livré.",
+        "Les comptes supplémentaires ont un mot de passe temporaire à changer à la première connexion, valable sept jours. Les identifiants sont sensibles à la casse."
+      ]
+    },
+    {
+      "title": "Créer et suivre un risque",
+      "steps": [
+        "L’installation démarre avec un registre vide. Cliquer sur Nouveau risque et décrire un scénario fictif.",
+        "Distinguer la cotation initiale proposée, la cible conditionnelle et la cotation actuelle fondée sur des preuves.",
+        "Les motifs, modifications, mesures et décisions sont journalisés. Le journal n’est pas inviolable face à un administrateur technique."
+      ]
+    },
+    {
+      "title": "Préparer les mesures et preuves",
+      "steps": [
+        "Décrire une action, un responsable, une échéance et la preuve attendue.",
+        "Une mesure planifiée n’est pas réalisée. Fournir puis vérifier les preuves avant de réévaluer.",
+        "Un rôle décideur dans l’application ne confère pas de mandat institutionnel."
+      ]
+    },
+    {
+      "title": "Utiliser l’Assistant IA",
+      "steps": [
+        "L’IA est désactivée à l’installation. Chaque utilisateur configure son propre service et ses propres conditions contractuelles.",
+        "Dans Préparer le travail, demander une piste de formulation sur un exemple fictif. Relire et reprendre volontairement la proposition.",
+        "Cette première piste n’est pas sourcée. Le RAG nécessite un corpus autorisé configuré séparément, selon RAG.md. Vérifier les sources avant une relecture. Aucune validation automatique."
+      ]
+    },
+    {
+      "title": "Exporter",
+      "steps": [
+        "Exporter les tableaux en CSV ou construire une présentation à partir des risques sélectionnés.",
+        "Le modèle PowerPoint fourni est générique. Relire les slides et les notes avant diffusion. Aucun modèle institutionnel ni aucune capsule de l’instance d’origine ne sont distribués."
+      ]
+    }
+  ]
+}
