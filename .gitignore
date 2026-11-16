@@ -1,0 +1,12 @@
+config/config.local.php
+config/*.bak
+config/*.lock
+var/*
+!var/.gitkeep
+*.log
+*.sql.gz
+*.dump
+*.sqlite*
+.env*
+.DS_Store
+rag/corpus.local.json
